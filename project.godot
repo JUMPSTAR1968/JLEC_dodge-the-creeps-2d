@@ -11,8 +11,8 @@ config_version=5
 [application]
 
 config/name="Dodge the Creeps 2D"
-run/main_scene="res://player.tscn"
-config/features=PackedStringArray("4.3", "GL Compatibility")
+run/main_scene="uid://b8dlfpk87a26b"
+config/features=PackedStringArray("4.4", "GL Compatibility")
 config/icon="res://icon.svg"
 
 [display]
